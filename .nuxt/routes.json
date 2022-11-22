@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/mnt/EED2CD58D2CD25A5/React-JS/inforun-nuxt-app/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_ccb40d78"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/EED2CD58D2CD25A5/React-JS/inforun-nuxt-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_600353a6"
+  }
+]
